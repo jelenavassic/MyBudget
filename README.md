@@ -1,0 +1,2 @@
+# MyBudget
+Budget management application
