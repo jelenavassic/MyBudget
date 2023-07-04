@@ -18,8 +18,8 @@ body {
 
 /*            CENTRAL PART                 */
 #center {
-  height: 100vh;
-  width: 25vw;
+  height: 100%;
+  width: 100%;
   background-color: #111439;
   display: flex;
   flex-direction: column;
@@ -139,7 +139,7 @@ body {
 
 .income,
 .expenses {
-  width: 30vw;
+  width: 100vw;
   display: flex;
   flex-direction: column;
   justify-content: start;
