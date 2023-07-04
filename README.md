@@ -1,4 +1,5 @@
 # MyBudget
+[Access the MyBudget App Online](https://jelenavassic.github.io/MyBudget/)
 
 MyBudget is a simple web application that helps you manage your budget by tracking your income and expenses. With an intuitive interface, you can easily add, view, and analyze your financial transactions.
 
