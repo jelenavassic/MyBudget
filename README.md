@@ -14,7 +14,7 @@ MyBudget is a simple web application that helps you manage your budget by tracki
 
 To use MyBudget, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/my-budget.git`
+1. Clone the repository: `https://github.com/jelenavassic/MyBudget.git`
 2. Open the `index.html` file in your web browser.
 3. Start adding your income and expenses using the input fields provided.
 4. Monitor your budget and financial transactions in real-time.
