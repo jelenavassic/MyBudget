@@ -94,7 +94,10 @@ body {
   height: 44px;
   font-size: 120%;
   color: inherit;
-  background-color: azure;
+  background-color: white;
+  color: #808080;
+  width: 40%;
+align-items: center;
 }
 .add__description,
 .add__value {
